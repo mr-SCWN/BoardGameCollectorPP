@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BoardGameCollector</string>
+    <string name="user_name">Nazwa użytkownika: \u0020</string>
+    <string name="number_of_games">Liczba gier: \u0020</string>
+    <string name="number_of_extensions">Liczba dodatków: \u0020</string>
+    <string name="last_synchronization">Ostatnia synchronizacja: \u0020</string>
+    <string name="blank">-</string>
+    <string name="list_of_games">Tabela gier</string>
+    <string name="list_of_extensions">Tabela dodatków</string>
+    <string name="synchronization">Synchronizacja</string>
+    <string name="clear_data">Usuń dane</string>
+    <string name="enter_name">wpisz nazwę użytkownika</string>
+    <string name="enter">Zalogować się</string>
+    <string name="blank_date">YYYY-MM-DD hh:mm</string>
+    <string name="back">Wróć</string>
+    <string name="title_activity_game_list">Gry</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="sort_by">Sortuj: \u0020</string>
+    <string name="sort">Sortować</string>
+    <string name="title_activity_extension_list">Dodatki</string>
+    <string name="large_text">Large text</string>
+    <string name="title_activity_history_screen">Historia</string>
+    <string name="next_page">Następna strona</string>
+    <string name="prev_page">Poprzednia strona</string>
+</resources>
